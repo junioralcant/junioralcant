@@ -1,6 +1,6 @@
 ### Hi, I'm Junior 👋
 
-- 🔭 I’m currently working on Mobile and Web Development in Deixa no Azul
+- 🔭 I’m currently working on Mobile and Web Development in Visionnaire
 - 🌱 I’m currently learning  and working with Node.js, React, React Native and Solidity
 - 📫 How to reach me: junioralcant111@gmail.com
 
